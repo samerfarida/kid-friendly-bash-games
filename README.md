@@ -18,6 +18,13 @@ A classic game where players choose rock, paper, or scissors and play against th
 - **Key Concepts**: Random number generation, conditionals, input/output.
 - [Learn More](rock-paper-scissors/README.md)
 
+3. ### [Tic-Tac-Toe](tic-tac-toe/README.md)
+A game where players take turns placing Xs and Os on a 3x3 grid, aiming to get three in a row.
+
+- **Objective**: Get three in a row horizontally, vertically, or diagonally.
+- **Key Concepts**: 2D arrays, loops, conditionals, input/output.
+- [Learn More](tic-tac-toe/README.md)
+
 ## How to Use This Repository
 
 1. **Clone the repository**:
