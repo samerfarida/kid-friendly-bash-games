@@ -11,13 +11,18 @@ A game where players guess a randomly selected number between 1 and 100.
 - **Key Concepts**: Variables, loops, conditionals, input/output.
 - [Learn More](guess-the-number/README.md)
 
-- [More Games Coming Soon!](#)
+2. ### [Rock, Paper, Scissors](rock-paper-scissors/README.md)
+A classic game where players choose rock, paper, or scissors and play against the computer.
+
+- **Objective**: Choose rock, paper, or scissors and try to beat the computer's choice.
+- **Key Concepts**: Random number generation, conditionals, input/output.
+- [Learn More](rock-paper-scissors/README.md)
 
 ## How to Use This Repository
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/kid-friendly-bash-games.git
+   git clone https://github.com/samerfarida/kid-friendly-bash-games.git
    ```
    ```bash
    cd kid-friendly-bash-games
