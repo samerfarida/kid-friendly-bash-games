@@ -5,25 +5,39 @@ Welcome to the Kid-Friendly Bash Games repository! This collection contains simp
 ## Games
 
 1. ### [Guess the Number](guess-the-number/README.md)
-A game where players guess a randomly selected number between 1 and 100.
+   A game where players guess a randomly selected number between 1 and 100.
 
-- **Objective**: Guess the number selected by the computer.
-- **Key Concepts**: Variables, loops, conditionals, input/output.
-- [Learn More](guess-the-number/README.md)
+   - **Objective**: Guess the number selected by the computer.
+   - **Key Concepts**: Variables, loops, conditionals, input/output.
+   - [Learn More](guess-the-number/README.md)
 
 2. ### [Rock, Paper, Scissors](rock-paper-scissors/README.md)
-A classic game where players choose rock, paper, or scissors and play against the computer.
+   A classic game where players choose rock, paper, or scissors and play against the computer.
 
-- **Objective**: Choose rock, paper, or scissors and try to beat the computer's choice.
-- **Key Concepts**: Random number generation, conditionals, input/output.
-- [Learn More](rock-paper-scissors/README.md)
+   - **Objective**: Choose rock, paper, or scissors and try to beat the computer's choice.
+   - **Key Concepts**: Random number generation, conditionals, input/output.
+   - [Learn More](rock-paper-scissors/README.md)
 
 3. ### [Tic-Tac-Toe](tic-tac-toe/README.md)
-A game where players take turns placing Xs and Os on a 3x3 grid, aiming to get three in a row.
+   A game where players take turns placing Xs and Os on a 3x3 grid, aiming to get three in a row.
 
-- **Objective**: Get three in a row horizontally, vertically, or diagonally.
-- **Key Concepts**: 2D arrays, loops, conditionals, input/output.
-- [Learn More](tic-tac-toe/README.md)
+   - **Objective**: Get three in a row horizontally, vertically, or diagonally.
+   - **Key Concepts**: 2D arrays, loops, conditionals, input/output.
+   - [Learn More](tic-tac-toe/README.md)
+
+4. ### [Hangman](hangman/README.md)
+   A word-guessing game where players try to uncover a hidden word by guessing letters.
+
+   - **Objective**: Guess the hidden word before making too many incorrect guesses.
+   - **Key Concepts**: Strings, loops, conditionals, input/output.
+   - [Learn More](hangman/README.md)
+
+5. ### [Math Quiz](math_quiz/README.md)
+   A game where players answer random math questions.
+
+   - **Objective**: Answer math questions correctly to score points.
+   - **Key Concepts**: Random number generation, arithmetic operations, loops, conditionals.
+   - [Learn More](math_quiz/README.md)
 
 ## How to Use This Repository
 
