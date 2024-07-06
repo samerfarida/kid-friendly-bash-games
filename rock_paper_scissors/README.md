@@ -36,4 +36,8 @@ We welcome contributions! If you have ideas for improvements or additional featu
 
 ## License
 
-This 
+This project is licensed under the MIT License.
+
+## Code
+
+You can find the code for the "Rock, Paper, Scissors" game [here](rock_paper_scissors.sh).
