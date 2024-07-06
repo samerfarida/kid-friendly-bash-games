@@ -1,11 +1,14 @@
 #!/bin/bash
 
-# Initialize the board
+# Initialize the board.
 board=(" " " " " " " " " " " " " " " " " ")
 
-# Function to display the board
+# Function to display the board.
 display_board() {
+    # Clear the screen before displaying the board.
     clear
+    
+    # Display the board with the current state of cells.
     echo " ${board[0]} | ${board[1]} | ${board[2]} "
     echo "---+---+---"
     echo " ${board[3]} | ${board[4]} | ${board[5]} "
@@ -13,8 +16,9 @@ display_board() {
     echo " ${board[6]} | ${board[7]} | ${board[8]} "
 }
 
-# Function to check if a player has won
+# Function to check if a player has won.
 check_win() {
+    # Check for winning combinations of cells based on the current state of the board and the player's turn.
     local player=$1
     if [[ (${board[0]} == $player && ${board[1]} == $player && ${board[2]} == $player) ||
           (${board[3]} == $player && ${board[4]} == $player && ${board[5]} == $player) ||
@@ -29,8 +33,9 @@ check_win() {
     return 1
 }
 
-# Function to check if the board is full
+# Function to check if the board is full.
 check_full_board() {
+    # Check for empty cells in the board and return true if any are found, false otherwise.
     for cell in "${board[@]}"; do
         if [[ $cell == " " ]]; then
             return 1
@@ -39,8 +44,9 @@ check_full_board() {
     return 0
 }
 
-# Function to switch player turns
+# Function to switch player turns.
 switch_player() {
+    # Switch the current player's turn between X and O.
     if [[ $current_player == "X" ]]; then
         current_player="O"
     else
@@ -48,11 +54,12 @@ switch_player() {
     fi
 }
 
-# Main game loop
+# Main game loop.
 play_game() {
     local current_player="X"
     local choice
 
+    # Game loop.
     while true; do
         display_board
         echo "Player $current_player's turn"
@@ -78,5 +85,5 @@ play_game() {
     done
 }
 
-# Start the game
+# Start the game.
 play_game
