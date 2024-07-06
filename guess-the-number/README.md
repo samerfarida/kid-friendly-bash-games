@@ -46,14 +46,13 @@ play_game() {
 
 # Start the game
 play_game
-
 ```
 
 ## How to Run
-1. Save the script to a file, for example, guess_the_number.sh.
+1. Save the script to a file, for example, `guess_the_number.sh`.
 2. Open a terminal and navigate to the directory where the script is saved.
-3. Make the script executable by running: chmod +x guess_the_number.sh
-4. Run the script by typing: ./guess_the_number.sh
+3. Make the script executable by running: ```chmod +x guess_the_number.sh```
+4. Run the script by typing: ```./guess_the_number.sh```
 
 ## Learning Points
 
@@ -63,6 +62,3 @@ This game is designed to teach the following coding concepts:
 * Loops: Repeating the guessing process until the correct number is found.
 * Conditionals: Checking if the guess is too high, too low, or correct.
 * Input/Output: Reading user input and displaying messages.
-
-## Contributing
-We welcome contributions! If you have ideas for improvements or additional features, please fork the repository and submit a pull request.
