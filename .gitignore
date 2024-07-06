@@ -1,0 +1,7 @@
+# Ignore macOS hidden files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
