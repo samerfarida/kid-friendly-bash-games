@@ -18,7 +18,7 @@ Welcome to the Kid-Friendly Bash Games repository! This collection contains simp
    - **Key Concepts**: Random number generation, conditionals, input/output.
    - [Learn More](rock_paper_scissors/README.md)
 
-3. ### [Tic-Tac-Toe](tic_tac_toe/README.md)
+3. ### [Tic Tac Toe](tic_tac_toe/README.md)
    A game where players take turns placing Xs and Os on a 3x3 grid, aiming to get three in a row.
 
    - **Objective**: Get three in a row horizontally, vertically, or diagonally.
