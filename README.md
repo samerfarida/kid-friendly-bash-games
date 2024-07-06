@@ -1,4 +1,4 @@
-# Kid-Friendly Bash Games
+# Kid-Friendly Bash Games 🎮
 
 Welcome to the Kid-Friendly Bash Games repository! This collection contains simple, fun, and educational Bash games designed to teach kids the basics of coding. Each game focuses on fundamental programming concepts, making learning to code an enjoyable experience.
 
