@@ -5,3 +5,6 @@
 
 # Thumbnails
 ._*
+
+# Ignore games in development 
+memory_game/

@@ -39,6 +39,29 @@ Welcome to the Kid-Friendly Bash Games repository! This collection contains simp
    - **Key Concepts**: Random number generation, arithmetic operations, loops, conditionals.
    - [Learn More](math_quiz/README.md)
 
+6. ### [Word Scramble](word_scramble/README.md)
+   A game where players try to unscramble a scrambled word.
+
+   - **Objective**: Unscramble the word within a given time limit.
+   - **Key Concepts**: Strings, loops, conditionals, input/output.
+   - [Learn More](word_scramble/README.md)
+
+7. ### [Treasure Hunt](treasure_hunt/README.md)
+   A game where players explore a grid to find hidden treasures.
+
+   - **Objective**: Find all hidden treasures on the grid.
+   - **Key Concepts**: 2D arrays, loops, conditionals, input/output.
+   - [Learn More](treasure_hunt/README.md)
+
+--**Coming soon**---
+
+8. ### [Memory Game](memory_game/README.md)
+   A game where players match pairs of cards based on memory.
+
+   - **Objective**: Match all pairs of cards with the fewest attempts.
+   - **Key Concepts**: Arrays, loops, conditionals, input/output.
+   - [Learn More](memory_game/README.md)
+
 ## How to Use This Repository
 
 1. **Clone the repository**:
